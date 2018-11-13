@@ -291,184 +291,82 @@
 		</div>
 	</div>
 	<!-- end top-menu-->
-	<!--breadcrumb-->
 	<div id="breadcrumb">
 		<div class="container-fruid">
 			<div class="content content-breadcrumb">
 				<div class="row">
 					<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
 						<div class="left-bread">
-							<a href="#" class="link-detail">Professional Manicure Nail Art Decorations Crystal With Gold And Silver Meta</a>
+							<h3 class="name-catalog">Portfolio 2 columns</h3>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
 						<div class="rigth-bread">
-							<span class="link-catalog"><a href="#">home</a></span>
+							<span class="link-catalog">
+								<a href="#">home</a>
+							</span>
 							<span><i class="fa fa-arrow-right"></i></span>
-							<span><a href="#">shop</a></span>
-							<span><i class="fa fa-arrow-right"></i></span>
-							<span><a href="#">Artificial Nails & Tips</a></span>
-							<span><i class="fa fa-arrow-right"></i></span>
-							<span>4-Piece Practical Nail Manicure Set, Made of...</span>
+							<span>Portfolio 2 columns</span>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<!--end breadcrumb-->
-	<!-- info-product-->
-	<div id="info-product">
+	<!-- news-->
+	<div id="news">
 		<div class="container-fruid">
-			<div class="content content-info-product">
+			<div class="content content-news">
 				<div class="row">
-					<div class="col-sm-5 col-md-5 col-lg-5 col-xl-5 left-img">
-						<div class="img-item">
-							<a href="#">
-								<img src="images/product-12.jpg" alt="">
-							</a>
-						</div>
-					</div>
-					<div class="col-sm-7 col-md-7 col-lg-7 col-xl-7 right-img">
-						<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-						<p class="price">
-							<span>$</span>
-							47.00
-						</p>
-						<p class="des">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						</p>
-						<div class="form-add-pr">
-							<form action="" method="">
-								<input class="count-add" type="number" name="" required value="1">
-								<button type="submit" class="link add-to-cart">add to cart</a>
-							</form>
-						</div>
-						<div class="info-pr-id">
-							<p>
-								<span>Categories:</span>
-								<span><a href="#">Artificial Nails & Tips, </a></span>
-								<span><a href="#">Cuticle Treatments</a></span>
-							</p>
-							<p>
-								<span>ID:</span>
-								1291
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- end tabs-product-->
-	<!--tabs-pr-->
-	<div id="tabs-product">
-		<div class="container-fruid">
-			<div class="content content-tabs-pr">
-				<ul class="nav nav-tabs tabs-pr">
-				    <li class="active"><a href="#des" class="link-active">Description</a></li>
-				    <li>
-				    	<a href="#reviews">Reviews<span>(0)</span></a>
-				    </li>
- 				</ul>
-				<div class="tab-content">
-				    <div id="des" class="tab-pane fade in active">
-				      	<h3>Description</h3>
-				      	<p class="main-tabs">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse.</p>
-				    </div>
-				    <div id="reviews" class="tab-pane fade">
-				      	<h3>Reviews</h3>
-					    <p class="mess-re">There are no reviews yet.</p>
-					    <p class="main-tabs">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse.</p>
-					    <div class="rating">
-					    	<p class="title-rating p-same">Your rating *</p>
-					    	<div class='starrr' id='star1'></div>
-						    <div>&nbsp;
-						      <span class='your-choice-was' style='display: none;'>
-						        Your rating was <span class='choice'></span>.
-						      </span>
-						    </div>
-					    </div>
-
-				    	<div class="form-review">
-				    		<p class="title-review p-same">Your review *</p>
-				    		<form action="" method="">
-				    			<textarea name="" class="text-re"></textarea><br>
-				    			<label for="">Name *</label>
-				    			<input type="text" name="" required><br>
-				    			<label for="">Email *</label>
-				    			<input type="text" name="" required><br>
-				    			<button type="submit">submit</button>
-				    		</form>
-				    	</div>
-				    </div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--end tabs-product-->
-	<div id="related-product">
-		<div class="container-fruid">
-			<div class="content content-related-product">
-				<div class="row">
-					<div class="col-xl-12">
-						<h2 class="title-related">Related products</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-6 col-md-4 col-lg-4 col-xl-4">
-						<div class="item item-posts">
-							<div class="img-item">
-								<a href="#">
-									<img src="images/product/product-12-150x150.jpg" alt="">
-									<i class="fa fa-link"></i>
-								</a>
-							</div>
-							<div class="info-post">
-								<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-								<p class="price">
-									<span>$</span>
-									47.00
-								</p>
-								<a href="#" class="link add-to-cart">add to cart</a>
+					<div class="col-md-6 col-lg-6 col-xl-6">
+						<div class="item-img-new">
+							<img src="images/news/2.jpg" alt="">
+							<div class="info-img-news">
+								<h4 class="name-info-pr">
+									<a href="#">Matte Polish Nail Art</a>
+								</h4>
+								<span class="date">
+									<a href="#">Mar 10, 2016</a>
+								</span>
+								<span>
+									<ul class="list-icon">
+										<li>
+											<a href="#"><i class="fa fa-comments"></i></a>
+											<span class="count">0</span>
+										</li>
+										<li>
+											<a href="#"><i class="fa fa-heart"></i></a>
+											<span class="count">0</span>
+										</li>
+									</ul>
+								</span>
+								<p class="des-img">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, architecto.</p>
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6 col-md-4 col-lg-4 col-xl-4">
-						<div class="item item-posts">
-							<div class="img-item">
-								<a href="#">
-									<img src="images/product/product-12-150x150.jpg" alt="">
-									<i class="fa fa-link"></i>
-								</a>
-							</div>
-							<div class="info-post">
-								<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-								<p class="price">
-									<span>$</span>
-									47.00
-								</p>
-								<a href="#" class="link add-to-cart">add to cart</a>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-6 col-md-4 col-lg-4 col-xl-4">
-						<div class="item item-posts">
-							<div class="img-item">
-								<a href="#">
-									<img src="images/product/product-12-150x150.jpg" alt="">
-									<i class="fa fa-link"></i>
-								</a>
-							</div>
-							<div class="info-post">
-								<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-								<p class="price">
-									<span>$</span>
-									47.00
-								</p>
-								<a href="#" class="link add-to-cart">add to cart</a>
+					<div class="col-md-6 col-lg-6 col-xl-6">
+						<div class="item-img-new">
+							<img src="images/news/2.jpg" alt="">
+							<div class="info-img-news">
+								<h4 class="name-info-pr">
+									<a href="#">Matte Polish Nail Art</a>
+								</h4>
+								<span class="date">
+									<a href="#">Mar 10, 2016</a>
+								</span>
+								<span>
+									<ul class="list-icon">
+										<li>
+											<a href="#"><i class="fa fa-comments"></i></a>
+											<span class="count">0</span>
+										</li>
+										<li>
+											<a href="#"><i class="fa fa-heart"></i></a>
+											<span class="count">0</span>
+										</li>
+									</ul>
+								</span>
+								<p class="des-img">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, architecto.</p>
 							</div>
 						</div>
 					</div>
@@ -476,6 +374,7 @@
 			</div>
 		</div>
 	</div>
+	<!-- end news-->
 	<div id="footer">
 		<div class="container-fruid">
 			<div class="content content-footer">
@@ -549,31 +448,34 @@
 	</button>
 	<!-- font-awesome-->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous"/>
+	<!-- font icon-->
+	<link rel="stylesheet" href="./font/fontello.min.css">
+	<!-- <link rel="stylesheet" href="font/font-awesome-css/css/fontawesome-all.css"> -->
 	<!-- animation-->
 	<link rel="stylesheet" type="text/css" href="./animate-css/animate.min.css">
-	<!-- slick -->
+
+	<!-- slick-->
 	<link rel="stylesheet" type="text/css" href="./slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="./slick/slick-theme.css"/>
+
 	<!-- bootstrap-->
 	<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./css/style.css">
 	<link rel="stylesheet" href="./css/catalog.css">
-	<link rel="stylesheet" href="./css/detail-product.css">
 	<link rel="stylesheet" href="./css/responsive.css">
 	<link rel="stylesheet" href="./css/catalog-responsive.css">
+	<link rel="stylesheet" href="./css/news.css">
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
 	<script type="text/javascript" src="./js/jquery3.3.1.js"></script>
+	<!-- js,css modal -->
+
 	<!-- count to-->
 	<script type="text/javascript" src="./js/jquery.countTo.js"></script>
+	<script type="text/javascript" src="./js/jquery.modal.js"></script>
 	<script type="text/javascript" src="./bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="./slick/slick.min.js"></script>
-	<!-- js,css bootstrap -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-	<!-- rating-->
-	<link rel="stylesheet" href="./css/starrr.css">
-	<script src="./js/starrr.js"></script>
+	<!--font-awesome-->
+	<!-- <script type="text/javascript" src="./font/font-awesome-js/js/fontawesome-all.js"></script> -->
 
 	<script type="text/javascript" src="./js/main.js"></script>
 	<script type="text/javascript">
@@ -615,27 +517,5 @@
 			}
 	 	}
 	 	</script>
-<!-- tabs-->
-	 <script>
-		$(document).ready(function(){
-		    $(".nav-tabs a").click(function(){
-		        $(this).tab('show');
-		    });
-		});
-</script>
-
-<!-- rating star -->
-<script type="text/javascript">
-	$('#star1').starrr({
-      change: function(e, value){
-        if (value) {
-          $('.your-choice-was').show();
-          $('.choice').text(value);
-        } else {
-          $('.your-choice-was').hide();
-        }
-      }
-    });
-</script>
 </body>
 </html>

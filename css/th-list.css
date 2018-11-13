@@ -1,0 +1,76 @@
+a.name-of {
+    font-size: 23px;
+    line-height: 27px;
+    text-decoration: none;
+    color: #222;
+    font-family: "Playfair Display";
+    transition: .3s;
+}
+a.name-of:hover{
+	color:#fdb1aa;
+	transition: .3s;
+}
+.info-post {
+    text-align: left;
+}
+p.des{
+	font-size: 16px;
+    line-height: 29px;
+    color: #626262;
+    font-weight: 400;
+    font-family: "Droid Serif";
+    padding-top: 20px;
+}
+p.price {
+    font-size: 21px;
+    opacity: 1;
+    line-height: 21px;
+}
+@media screen and (max-width: 480px){
+	a.name-of {
+	    font-size: 21px;
+	}
+	a.link.add-to-cart {
+    	position: absolute;
+	    left: -94%;
+	    top: 82%;
+	}
+	p.price {
+	    position: absolute;
+	    left: -94%;
+	    top: 72%;
+	}
+	.list-pr .col-md-6 {
+	    margin-bottom: 40px;
+	}
+	a.name-of {
+	    font-size: 18px;
+	}
+	p.des {
+	    font-size: 14px;
+	}
+}
+@media screen and (max-width: 425px)
+{
+	p.des {
+	    font-size: 13px;
+	    line-height: 27px;
+	    padding-top: 15px;
+	}
+}
+@media screen and (max-width: 375px){
+	p.price {
+	    top: 50%;
+	}
+	a.link.add-to-cart{
+		top: 65%;
+	}
+}
+@media screen and (max-width: 320px){
+	.list-pr .col-sm-6 {
+	    width: 100%;
+	}
+	p.price,a.link.add-to-cart {
+	    position: static;
+	}
+}

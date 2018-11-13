@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Droid Serif";
+    src: url('../font/DroidSerif-Regular.ttf');
+}
 *{
 	margin: 0;
 	padding: 0;
@@ -492,8 +496,8 @@ a.link:hover{
     -ms-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    text-decoration: none;
 }
-
 .link-ac {
     width: 277px;
     margin:  0 auto;

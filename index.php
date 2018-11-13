@@ -142,7 +142,7 @@
 											</ul> -->
 										<li><a href="#">Post Formats</a></li>
 									</ul>
-								<li data-sub="8"><a href="#">shop</a></li>
+								<li data-sub="8"><a href="catalog.php">shop</a></li>
 								<li data-sub="9"><a href="#">contact</a></li>
 							</ul>
 						</div>
@@ -283,7 +283,7 @@
 									<li><a href="#">Post Formats</a></li>
 								</ul>
 							</li>
-							<li data-sub="8"><a href="#">shop</a></li>
+							<li data-sub="8"><a href="catalog.php">shop</a></li>
 							<li data-sub="9"><a href="#">contact</a></li>
 						</ul>
 					</div>

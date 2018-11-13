@@ -142,7 +142,7 @@
 										</ul> -->
 									<li><a href="#">Post Formats</a></li>
 								</ul>
-							<li data-sub="8"><a href="#">shop</a></li>
+							<li data-sub="8"><a href="catalog.php">shop</a></li>
 							<li data-sub="9"><a href="#">contact</a></li>
 						</ul>
 					</div>
@@ -283,7 +283,7 @@
 								<li><a href="#">Post Formats</a></li>
 							</ul>
 						</li>
-						<li data-sub="8"><a href="#">shop</a></li>
+						<li data-sub="8"><a href="catalog.php">shop</a></li>
 						<li data-sub="9"><a href="#">contact</a></li>
 					</ul>
 				</div>
@@ -414,7 +414,7 @@
 									<div class="row">
 										<div class="col-sm-6 col-md-6">
 											<span class="icon-list">
-												<a href="catalog.php">
+												<a href="catalog">
 													<i class="fa fa-th"></i>
 												</a>
 											</span>
@@ -449,16 +449,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -467,16 +473,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -485,16 +497,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -503,16 +521,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -521,32 +545,18 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
 										<div class="col-sm-6 col-md-6 col-lg-6">
-											<div class="item item-posts">
-												<div class="img-item">
-													<a href="#">
-														<img src="images/product/product-12-150x150.jpg" alt="">
-														<i class="fa fa-link"></i>
-													</a>
-												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
 											</div>
 										</div>
 									</div>
@@ -558,14 +568,15 @@
 					</div>
 				</div>
 				<!-- end  desktop-main-catalog-->
+
 				<!-- show when screen <=768px-->
 				<!-- mobile-main-catalog-->
 				<div class="mobile-main-catalog">
 					<div class="row">
 						<div class="col-sm-12 col-md-12 col-lg-8 col-xl-8 top-main">
-							<!-- product-->
+							<!-- product -->
 							<div class="product">
-								<!--head-pr-->
+								<!-- head-pr -->
 								<div class="head-pr">
 									<div class="row">
 										<div class="col-sm-6 col-md-6">
@@ -593,8 +604,8 @@
 										</div>
 									</div>
 								</div>
-								<!--end head-pr-->
-								<!-- list-pr-->
+								<!-- end head-pr -->
+								<!-- list-pr -->
 								<div class="list-pr">
 									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
@@ -605,16 +616,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -623,16 +640,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -641,16 +664,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -659,16 +688,22 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
+										<div class="col-sm-6 col-md-6 col-lg-6">
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<div class="col-sm-6 col-md-6 col-lg-6">
 											<div class="item item-posts">
 												<div class="img-item">
@@ -677,42 +712,28 @@
 														<i class="fa fa-link"></i>
 													</a>
 												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+
 											</div>
 										</div>
 										<div class="col-sm-6 col-md-6 col-lg-6">
-											<div class="item item-posts">
-												<div class="img-item">
-													<a href="#">
-														<img src="images/product/product-12-150x150.jpg" alt="">
-														<i class="fa fa-link"></i>
-													</a>
-												</div>
-												<div class="info-post">
-													<h3 class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</h3>
-													<p class="price">
-														<span>$</span>
-														47.00
-													</p>
-													<a href="#" class="link add-to-cart">add to cart</a>
-												</div>
+											<div class="info-post">
+												<a href="" class="name-of">Ultra Glam Gold Nail Polishes for Holiday.</a>
+												<p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, cupiditate, debitis. Ducimus, nihil nam neque dicta. Temporibus nulla fugit, iste cumque officia quos, ratione qui dolor veniam aliquam atque. </p>
+												<p class="price">
+													<span>$</span>
+													47.00
+												</p>
+												<a href="#" class="link add-to-cart">add to cart</a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<!-- end list-pr-->
+								<!-- end list-pr -->
 							</div>
-							<!--end product-->
+							<!-- end product -->
 						</div>
 						<div class="col-md-12 col-lg-4 col-xl-4 bottom-main">
-							<!-- slidebar-catalog-->
+							<!-- slidebar-catalog -->
 							<div class="slidebar-catalog">
 								<div class="content-sidebar-catalog">
 									<div class="row">
@@ -777,7 +798,7 @@
 									</div>
 								</div>
 							</div>
-							<!-- end slidebar-catalog-->
+							<!-- end slidebar-catalog -->
 						</div>
 					</div>
 				</div>
@@ -875,6 +896,7 @@
 	<link rel="stylesheet" href="./css/catalog.css">
 	<link rel="stylesheet" href="./css/responsive.css">
 	<link rel="stylesheet" href="./css/catalog-responsive.css">
+	<link rel="stylesheet" href="./css/th-list.css">
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
 	<script type="text/javascript" src="./js/jquery3.3.1.js"></script>
 	<!-- js,css modal -->
